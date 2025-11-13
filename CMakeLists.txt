@@ -3,5 +3,8 @@ project(Hello_DS LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(hello_ds
-        LInked_Lists_Launcher.cpp
-        LInked_Lists_Launcher.h)
+        Launcher.cpp
+        Linked_Lists.h
+        Stacks.h
+        Queues.h
+)
