@@ -7,4 +7,5 @@ add_executable(hello_ds
         Linked_Lists.h
         Stacks.h
         Queues.h
+        BST.h
 )
